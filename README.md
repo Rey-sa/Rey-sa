@@ -14,9 +14,9 @@ Supabase · Java
 Zod · React Hook Form · Playwright · Git
 
 ## 📌 What I'm up to 
-- 🎓 Finishing my B.Sc in Applied Computer Science (September 2026)
-- 🛠️ Developing full-stack applications to solve real-world problems
-- ✍️ Bachelor Thesis: Automated E2E Testing in CI/CD Pipelines for Web Application Quality Assurance
+🎓 Finishing my B.Sc in Applied Computer Science (September 2026)  
+🛠️ Developing full-stack applications to solve real-world problems  
+✍️ Bachelor Thesis: Automated E2E Testing in CI/CD Pipelines for Web Application Quality Assurance
 
 ## 🧠 Background
 
