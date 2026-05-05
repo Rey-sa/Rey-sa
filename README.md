@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I am Saskia 👋
 
-<!--
-**Rey-sa/Rey-sa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dual-study student completing a B.Sc. in Applied Computer Science in Germany, bridging the gap between academic theory and industrial practice.
 
-Here are some ideas to get you started:
+## 🛠️ Tech I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend:**
+React · Next.js · TypeScript · Tailwind CSS
+
+**Backend:**
+Supabase · Java
+
+**Tools & misc:**
+Zod · React Hook Form · Playwright · Git
+
+## 📌 What I'm up to 
+- 🎓 Finishing my B.Sc in Applied Computer Science (September 2026)
+- 🛠️ Developing full-stack applications to solve real-world problems
+- ✍️ Bachelor Thesis: Automated E2E Testing in CI/CD Pipelines for Web Application Quality Assurance
+
+## 🧠 Background
+
+Before going all-in on software development, I worked in management consulting and as a PMO in IT projects. This background actually comes in handy:  I know how software fits into the bigger picture of business, not just how to build it.
+
+
+## 📬 Get in touch
+[![GitHub](https://img.shields.io/badge/GitHub-Rey--sa-181717?style=flat&logo=github)](https://github.com/Rey-sa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saskia%20Rey-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/saskiarey/)
+
+---
+*Always learning. Sometimes gaming. Occasionally fixing my VW T5 😉*
